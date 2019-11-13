@@ -1,29 +1,55 @@
 文章目录
+
 ffmpeg入门教程[https://www.jianshu.com/p/042c7847bd8a](https://www.jianshu.com/p/042c7847bd8a)
+
 视频播放器原理
+
 Windows编译ffmpeg so从下载到安装到坚持再到放弃
+
 Linux编译ffmpeg so从下载坚持到成功
+
 deepin
+
 安装双系统linux（安装deepin）
+
 安装linux虚拟机（安装deepin）
+
 安装VMware Workstation
+
 下载NDK-r14b-linux-x86_64
+
 下载ffmpeg源码4.2.1
+
 温馨提示
+
 安装make
+
 修改configure文件
+
 创建so配置文件
+
 开始编译（成败在此一举）
+
 linux编译ffmpeg 4.2.1 .so深坑
+
 温馨提示
+
 Unknown option "--disable-ffserver"
+
 recipe for target 'libavformat/udp.o' failed
+
 recipe for target 'libavcodec/aaccoder.o' failed
+
 libavcodec/hevc_mvs.c:208:15: error: 'y0000000' undeclared (first use in this function) ((y ## v) >> s->ps.sps->log2_min_pu_size))
+
 其他错误
+
 已经修改过的ffmpeg4.2.1源码，可直接编译，应该不会报错 GitHub:[https://github.com/AnJiaoDe/ffmpeg4.2.1_so](https://github.com/AnJiaoDe/ffmpeg4.2.1_so)
+
  CSDN下载：[https://download.csdn.net/download/confusing_awakening/11970250](https://download.csdn.net/download/confusing_awakening/11970250)
+ 
 编译好的ffmpeg4.2.1的so库，GitHub:[https://github.com/AnJiaoDe/ffmpeg4.2.1_so_generated](https://github.com/AnJiaoDe/ffmpeg4.2.1_so_generated)
+
 欢迎分享、转载、联系、指正、批评、撕逼
 
 ## ffmpeg入门教程[https://www.jianshu.com/p/042c7847bd8a](https://www.jianshu.com/p/042c7847bd8a)
